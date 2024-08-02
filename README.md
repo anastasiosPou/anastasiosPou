@@ -33,7 +33,7 @@ has given me the crusial soft skills to engage, collaborate and lead in a fast-g
 ## How to reach me
 
 * 🐦 [Twitter](https://x.com/anastasiosPou)
-* 📫 [Email](tasos.poursaitidis.4@gmail.com)
+* 📫 [Email](mailto:tasos.poursaitidis.4@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/anastasios-poursaitidis-209a06ba/)
 
 I'm very friendly(sometimes too friendly but harmless) and open to collabolate in any project or just talk about our love for programming, or gaming, or music 😁
