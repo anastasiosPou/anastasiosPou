@@ -1,4 +1,4 @@
-Hello there! I'm Anastasios Poursaitides. I'm a Software Engineer with 2 years of professional experience on making engaging experiences for the web. I'm focused on creating scalable but most importantly accessible software to all. 
+Hello there! I'm Anastasios Poursaitides. I'm a Software Engineer with 4 years of professional experience on making engaging experiences for the web. I'm focused on creating scalable but most importantly accessible software to all. 
 
 
 ## About Me 👨🏻‍💻
@@ -9,17 +9,10 @@ has given me the crusial soft skills to engage, collaborate and lead in a fast-g
 
 ## Technical Skills 🛠️
 * Programming Languages: Vanilla Javascript, Typescript, Swift, Python
-* Frameworks & Libraries: React, Angular, Redux, Express.js, Node.js, Pixi.js, P5.js
-* Testing Technologies: Mocha & Chai, Jest, React Testing Library, Cypress
-* UI & UX tools: Figma, Balsamiq
-* Tools & Platforms: Github, Postman, npm, Netlify
-
----
-
-## Key Projects 📽️
-* Articles App(in progress): An app that filters the news you want, without any other unnecessary info on the way.
-* SpotiList(in progress): Using the Spotify API, Spotilist makes it easy to create your playlists
-* Hospitality Access(in progress): A place where people interested on Tourism can learn from those who actually work on Tourism.
+* Frameworks & Libraries: React, NextJS, Angular, Redux, ExpressJS, NodeJS
+* Testing Technologies: Mocha & Chai, Jest, React Testing Library, Cypress, Playwright, StoryBook, Vitest
+* UI & UX tools: Figma
+* Tools & Platforms: Github, Postman, npm, Netlify, Vercel, Chrome Dev Tools
 
 ---
 
